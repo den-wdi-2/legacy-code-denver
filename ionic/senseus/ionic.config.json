@@ -1,0 +1,12 @@
+{
+  "name": "senseus",
+  "app_id": "a1792c1f",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
